@@ -1,5 +1,17 @@
-## Notes on React
+## Notes on React JS
 
-* React Core 
+* React Core
+* React Components
+  * React State and Props
+* React Event Handling
+* React router
+* React Flux Pattern and Library
+* React Styling
 * JSX
-* React Flux Pattern
+
+* JavaScript
+* ES6
+  * Arrow Function
+  * let
+  * classes
+  * template literal
