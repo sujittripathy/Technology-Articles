@@ -21,5 +21,10 @@ https://www.youtube.com/watch?v=IEf1KAcK6A8
  * looping thru -> for(let res of testResults)
 * Template Literals
  * multi line string can be defined with backtick.
-* Destructuring Arrays 
+* Destructuring Arrays
+ * Extract values from an array in an quick way, let [a,b,c,f] = numbers;
+ * it presents on the left side of the equal side to extract the value.
+* Destructuring Objects
+ * Extracting values from objects, similar as arrays
+ * to rename the variable use alias so, outside the object it can be referred as a different name, greet:hello
 
