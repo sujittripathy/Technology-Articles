@@ -11,4 +11,15 @@ https://www.youtube.com/watch?v=IEf1KAcK6A8
   * In arrow function 'this' doesn't change the context from which it's being called.
 * Default parameters
   * default value can be given to the function argument. If the parameter is not passed then default value will be used.
-* 
+* Object literal extension
+  * objects can take the value from outside of the block. This is something useful to initialize the objects by defining once on top and
+    all the objects refer to the same.
+* Rest operator (...) and spread operator
+  * This is for passing dynamic arguments to the parameter. The value in parameter starts as '...'.
+  * spread operator convert the array to a list which is kind of opposite of rest.
+* For-of-Loop
+ * looping thru -> for(let res of testResults)
+* Template Literals
+ * multi line string can be defined with backtick.
+* Destructuring Arrays 
+
