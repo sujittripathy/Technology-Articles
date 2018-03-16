@@ -18,13 +18,13 @@ https://www.youtube.com/watch?v=IEf1KAcK6A8
   * This is for passing dynamic arguments to the parameter. The value in parameter starts as '...'.
   * spread operator convert the array to a list which is kind of opposite of rest.
 * For-of-Loop
- * looping thru -> for(let res of testResults)
+  * looping thru -> for(let res of testResults)
 * Template Literals
- * multi line string can be defined with backtick.
+  * multi line string can be defined with backtick.
 * Destructuring Arrays
- * Extract values from an array in an quick way, let [a,b,c,f] = numbers;
- * it presents on the left side of the equal side to extract the value.
+  * Extract values from an array in an quick way, let [a,b,c,f] = numbers;
+  * it presents on the left side of the equal side to extract the value.
 * Destructuring Objects
- * Extracting values from objects, similar as arrays
- * to rename the variable use alias so, outside the object it can be referred as a different name, greet:hello
+  * Extracting values from objects, similar as arrays
+  * to rename the variable use alias so, outside the object it can be referred as a different name, greet:hello
 
